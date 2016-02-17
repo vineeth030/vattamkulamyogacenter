@@ -1,4 +1,4 @@
-# yogax1
+# Vattamkulam Yoga Centre
 
 Website for Vattamkulam Yoga Centre
 
